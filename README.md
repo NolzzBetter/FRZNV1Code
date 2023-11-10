@@ -9,6 +9,8 @@ You wont get all the features but still! Overall great bot!
 3. Put token in client.run
 4. change all permissions to your liking
 
+> if you want to learn please check out our docs site: https://docs.frzn.fun
+
 ## Note that this is just a simplified version of our code generator. We do not use this type of method for our real FRZN bot. This is an example method.
 
 * PLEASE CREDIT ME IF YOU USE THIS!
